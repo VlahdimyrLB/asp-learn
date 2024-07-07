@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dodi\\Desktop\\asp-learn\\JokesWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5EE1C1B-A2F1-4AB0-94B4-4775C03048ED}|JokesWebApp.csproj|c:\\users\\dodi\\desktop\\asp-learn\\jokeswebapp\\models\\joke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5EE1C1B-A2F1-4AB0-94B4-4775C03048ED}|JokesWebApp.csproj|solutionrelative:models\\joke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5EE1C1B-A2F1-4AB0-94B4-4775C03048ED}|JokesWebApp.csproj|c:\\users\\dodi\\desktop\\asp-learn\\jokeswebapp\\views\\jokes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5EE1C1B-A2F1-4AB0-94B4-4775C03048ED}|JokesWebApp.csproj|solutionrelative:views\\jokes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5EE1C1B-A2F1-4AB0-94B4-4775C03048ED}|JokesWebApp.csproj|c:\\users\\dodi\\desktop\\asp-learn\\jokeswebapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B5EE1C1B-A2F1-4AB0-94B4-4775C03048ED}|JokesWebApp.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5EE1C1B-A2F1-4AB0-94B4-4775C03048ED}|JokesWebApp.csproj|c:\\users\\dodi\\desktop\\asp-learn\\jokeswebapp\\controllers\\jokescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5EE1C1B-A2F1-4AB0-94B4-4775C03048ED}|JokesWebApp.csproj|solutionrelative:controllers\\jokescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5EE1C1B-A2F1-4AB0-94B4-4775C03048ED}|JokesWebApp.csproj|c:\\users\\dodi\\desktop\\asp-learn\\jokeswebapp\\views\\jokes\\showsearchform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5EE1C1B-A2F1-4AB0-94B4-4775C03048ED}|JokesWebApp.csproj|solutionrelative:views\\jokes\\showsearchform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5EE1C1B-A2F1-4AB0-94B4-4775C03048ED}|JokesWebApp.csproj|c:\\users\\dodi\\desktop\\asp-learn\\jokeswebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5EE1C1B-A2F1-4AB0-94B4-4775C03048ED}|JokesWebApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Joke.cs",
+              "DocumentMoniker": "C:\\Users\\Dodi\\Desktop\\asp-learn\\JokesWebApp\\Models\\Joke.cs",
+              "RelativeDocumentMoniker": "Models\\Joke.cs",
+              "ToolTip": "C:\\Users\\Dodi\\Desktop\\asp-learn\\JokesWebApp\\Models\\Joke.cs",
+              "RelativeToolTip": "Models\\Joke.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T14:54:04.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Dodi\\Desktop\\asp-learn\\JokesWebApp\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Dodi\\Desktop\\asp-learn\\JokesWebApp\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-07T14:46:30.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dodi\\Desktop\\asp-learn\\JokesWebApp\\Views\\Jokes\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Jokes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dodi\\Desktop\\asp-learn\\JokesWebApp\\Views\\Jokes\\Index.cshtml*",
+              "RelativeToolTip": "Views\\Jokes\\Index.cshtml*",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-07T14:37:54.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShowSearchForm.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dodi\\Desktop\\asp-learn\\JokesWebApp\\Views\\Jokes\\ShowSearchForm.cshtml",
+              "RelativeDocumentMoniker": "Views\\Jokes\\ShowSearchForm.cshtml",
+              "ToolTip": "C:\\Users\\Dodi\\Desktop\\asp-learn\\JokesWebApp\\Views\\Jokes\\ShowSearchForm.cshtml",
+              "RelativeToolTip": "Views\\Jokes\\ShowSearchForm.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-07T14:18:22.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dodi\\Desktop\\asp-learn\\JokesWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Dodi\\Desktop\\asp-learn\\JokesWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB8AAAB3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-07T14:09:02.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JokesController.cs",
+              "DocumentMoniker": "C:\\Users\\Dodi\\Desktop\\asp-learn\\JokesWebApp\\Controllers\\JokesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\JokesController.cs",
+              "ToolTip": "C:\\Users\\Dodi\\Desktop\\asp-learn\\JokesWebApp\\Controllers\\JokesController.cs",
+              "RelativeToolTip": "Controllers\\JokesController.cs",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAkwJsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T13:50:05.3Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
